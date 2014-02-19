@@ -1,1 +1,3 @@
-function fib{n};
+function fib(n) {
+  if (n>3)
+}
